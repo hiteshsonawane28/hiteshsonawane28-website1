@@ -1,5 +1,5 @@
 import React from 'react';
-import ServiceCard from '../Shared/Servicecard.jsx';
+import {ServiceCard} from '../Shared/Servicecard.jsx';
 
 
 export default function Services() {
